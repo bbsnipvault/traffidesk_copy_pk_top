@@ -20,7 +20,7 @@ REM ================================================
 REM Quelle und Zielverzeichnis definieren
 set SOURCE=K:\Traffi\keys
 set TARGET=C:\Traffi\keys
-
+ 
 REM Ausgabe zur Kontrolle
 echo ================================================
 echo Starte Kopiervorgang
